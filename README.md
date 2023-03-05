@@ -1,5 +1,5 @@
 # FPS
-  Videojuego FPS estilo Call Of Duty
+  Videojuego FPS estilo Call Of  por Nachely Rodriguez 
   
   
   El juego trata sobre un niño que está soñando que todos sus juguetes han cobrado vida pero en modo zombis, con una pistola el niño debe matar a cada juguete, si es tocado 5 veces por un juguete se queda sin vida y pierde el juego, si se queda sin municiones también pierde el juego, para disparar las municiones se debe dar clic izquierdo, para mover el personaje se deben tocar  las fechas del teclado y  para apuntar  a los peluches es con el mouse.
